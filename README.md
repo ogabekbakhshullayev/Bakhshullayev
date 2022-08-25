@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Bakhshullayev
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Bakhshullayev Ogabek
+- 👀 I’m currently working on Artificial intelegence, Machine Learning and Deep Learning
+- 🌱 I’m currently learning NLP, Data science, SQL, kubernetes and Quantum basic
+- 💞️ I’m looking to collaborate on Deep Learning Algorithm
+- 📫 How to reach me  LinkedIn Badge Telegram Badge Gmail Badge
 
 <!---
 Bakhshullayev/Bakhshullayev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
